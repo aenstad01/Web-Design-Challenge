@@ -1,0 +1,16 @@
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 30px;
+    width: 30px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 30%, 30%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.img-fluid {
+    margin-left: -60px;
+    filter: grayscale(36%);
+
+}
+
