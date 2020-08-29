@@ -8,9 +8,18 @@
     border: 1px solid black;
 }
 
-.img-fluid {
-    margin-left: -60px;
-    filter: grayscale(36%);
 
+.chart_section {
+    margin-right: 0 px;
 }
 
+.content {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+
+.selected {
+    opacity: 50%;
+
+}
