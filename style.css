@@ -23,3 +23,39 @@
     opacity: 50%;
 
 }
+
+.temp-button:hover {
+    transform: scale(1.1);
+}
+
+.humidity-button:hover {
+    transform: scale(1.1);
+}
+
+.wind-button:hover {
+    transform: scale(1.1);
+}
+
+.cloudiness-button:hover {
+    transform: scale(1.1);
+}
+
+.cloudiness-compare:hover {
+    transform: scale(1.1);
+
+}
+
+.humidity-compare:hover {
+    transform: scale(1.1);
+
+}
+
+.temp-compare:hover {
+    transform: scale(1.1);
+
+}
+
+.wind-compare:hover {
+    transform: scale(1.1);
+
+}
